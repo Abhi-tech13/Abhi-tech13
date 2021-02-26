@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Abhi-tech13/Abhi-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A Machine Learning enthusiast, software developer from West Bengal,India.</h3>
 
@@ -26,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-tech13&show_icons=true&locale=en" alt="abhi-tech13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-tech13&" alt="abhi-tech13" /></p>
-
